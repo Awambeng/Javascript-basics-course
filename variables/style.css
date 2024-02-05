@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
+#p1{
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+#p2{
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+#p3{
+    color: brown;
+    font-weight: bold;
+}
