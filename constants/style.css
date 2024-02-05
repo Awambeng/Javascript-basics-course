@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
+button{
+    background: rgb(3, 49, 148);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 1em;
+    margin-top: 20px;
+}
+
+.form{
+    background: orange;
+    display: block;
+    padding: 15px 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.form input{
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-size: .5em;
+}
+
+#myH2{
+    color: darkgreen;
+}
+
+#myH3{
+    color: red;
+}
