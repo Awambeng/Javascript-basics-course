@@ -7,10 +7,15 @@ on:
     branches:
       - "feat/intro"
 
+
 # Defining jobs
 jobs:
   create-pull-request:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      packages: write
 
     steps:
       - name: checking out code
