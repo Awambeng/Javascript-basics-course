@@ -1,0 +1,47 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1{
+    color: darkgreen;
+}
+
+p{
+    color: orangered;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#mybtn{
+    background:darkslateblue;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 30px;
+    border-radius: 10px;
+    transition: background-color 0.25s;
+    margin-top: 100px;
+}
+
+#mybtn1{
+    background: red;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 30px;
+    border-radius: 10px;
+    transition: background-color 0.25s;
+    margin-top: 100px;
+}
+
+.btn button{
+    margin-left: 50px;
+}
+
+#result{
+    padding: 30px 50px;
+    border-radius: 5px;
+    border: 3px solid red;
+    font-weight: bold;
+}
+
