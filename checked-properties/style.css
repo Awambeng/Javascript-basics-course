@@ -1,0 +1,49 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1{
+    color: darkgreen;
+}
+
+.container{
+    display: inline-block;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.container .hero{
+    padding-bottom: 30px;
+}
+
+#myBtn{
+    color: #fff;
+    background: darkgreen;
+    font-size: 1em;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.btn button{
+    margin-left: 50px;
+}
+
+#refresh{
+    color: #fff;
+    background: red;
+    font-size: 1em;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+#myBtn:hover{
+    background: rgb(0, 92, 200);
+}
+
+#p2{
+    color: red;
+}
