@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+#main{
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+#myage{
+    padding: 10px;
+    font-size: .7em;
+    text-align: center;
+    font-weight: bold;
+}
+
+#mybtn{
+    background: rgb(10, 112, 27);
+    padding: 10px;
+    font-size: .7em;
+    border-radius: 10px;
+    transition: background-color 0.25s;
+    margin-top: 50px;
+    color: #fff;
+}
+
+#p1{
+    color: red;
+    font-weight: bold;
+}
+
+h1{
+    color: darkgreen;
+}
