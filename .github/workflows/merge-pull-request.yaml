@@ -23,7 +23,6 @@ jobs:
 
       - name: Expose git commit data
         uses: rlespinasse/git-commit-data-action@v1.x
-
     
       - name: Update author information
         run: echo "${{ github.event.head_commit.author.name }}" > AUTHOR
