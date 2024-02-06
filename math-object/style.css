@@ -1,0 +1,75 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1{
+    color: rgb(97, 44, 44);
+    margin-bottom: 100px;
+}
+
+.mytext{
+    color: darkgreen;
+    display: inline-flex;
+    font-weight: bold;
+    justify-content: space-between;
+}
+
+#myinput{
+    margin-left: 20px;
+    font-size: 1em;
+}
+
+.con{
+    margin-top: 100px;
+}
+
+.con #p1{
+    background: darkcyan;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.con #p2{
+    background: rgb(98, 114, 5);
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.con #p3{
+    background: brown;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.con #p4{
+    background: rgb(139, 83, 0);
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.con #p5{
+    background: rgb(0, 139, 53);
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.con button{
+    margin-left: 15px;
+}
+
+#result{
+    color: darkslateblue;
+    font-weight: bold;
+}
