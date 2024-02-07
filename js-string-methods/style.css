@@ -1,0 +1,47 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1{
+    color: darkgreen;
+}
+
+#p1{
+    color: red;
+    font-weight: bold;
+}
+
+.username{
+    color: darkcyan;
+    font-weight: bold;
+}
+
+#username{
+    color: #000;
+    font-size: .8em;
+    border-radius: 10px;
+}
+
+.btn button{
+    margin-left: 50px;
+}
+
+.btn #refresh{
+    background: red;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 1em;
+    transition: background-color 0.4s;
+}
+
+.btn #submit{
+    background: darkgreen;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 1em;
+    transition: background-color 0.4s;
+}
