@@ -1,0 +1,64 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1{
+    color: darkgreen;
+}
+
+#btn{
+    background:darkslateblue;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 30px;
+    border-radius: 10px;
+    transition: background-color 0.25s;
+    margin-top: 100px;
+}
+
+#btn1{
+    background: red;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 30px;
+    border-radius: 10px;
+    transition: background-color 0.25s;
+    margin-top: 100px;
+}
+
+.mybtn button{
+    margin-left: 50px;
+}
+
+.result{
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+.result p{
+    padding-bottom: 20px;
+}
+
+.result #res1{
+    color: darkgreen;
+}
+
+.result #res2{
+    color: red;
+}
+
+#guessText{
+    font-size: 1em;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+}
+
+#mytext{
+    color: darkcyan;
+    font-weight: bold;
+}
