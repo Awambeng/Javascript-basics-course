@@ -13,7 +13,7 @@ else{
 let time = 18;
 
 if (time < 12){
-    console.log(`Good morning...`);
+    console.log(`Good morning`);
 }
 else if(time < 17){
     console.log(`Good Afternoon`);
